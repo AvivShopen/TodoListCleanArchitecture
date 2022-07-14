@@ -18,9 +18,11 @@ This is the todo list for the todo list project 😃
 
  - [ ] Inner Layers
  - [ ] UI Layer
-   - [ ] React Todo List Application
-   - [ ] Vue Todo List Application
-   - [ ] Svelte Todo List Application
+ 
+    - [ ] React
+    - [ ] React Native
+    - [ ] Vue
+    - [ ] Svelte
 
 More might be planned in the future... (when there will be yet another javascript framework)
 
