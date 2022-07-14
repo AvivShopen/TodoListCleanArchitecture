@@ -1,4 +1,4 @@
-# Todo List Clean Architecture
+## Todo List Clean Architecture
 This project demonstrates the purpose of the clean architecture, 
 alongside with the abilities it provides.
 
