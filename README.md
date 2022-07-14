@@ -15,10 +15,13 @@ some information about what is it and why is it useful. [Link](https://www.techt
 
 ## Todos ✔️
 This is the todo list for the todo list project 😃
-[ ] Inner Layers (Core)
-[ ] React Todo List Application
-[ ] Vue Todo List Application
-[ ] Svelte Todo List Application
+
+ - [ ] Inner Layers
+ - [ ] UI Layer
+   - [ ] React Todo List Application
+   - [ ] Vue Todo List Application
+   - [ ] Svelte Todo List Application
+
 More might be planned in the future... (when there will be yet another javascript framework)
 
 ## License 📝
