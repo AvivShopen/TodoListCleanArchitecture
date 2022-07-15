@@ -1,5 +1,5 @@
 {
-	"name": "svelte-todo-list",
+	"name": "svelte-todo-application",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
