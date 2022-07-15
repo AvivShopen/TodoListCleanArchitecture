@@ -1,0 +1,19 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "author": "avivshopen",
+  "license": "MIT",
+  "description": "The core layers for the clean architecture model application",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "redux": "^4.2.0",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}

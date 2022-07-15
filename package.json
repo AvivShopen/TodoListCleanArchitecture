@@ -1,0 +1,22 @@
+{
+  "name": "todolistcleanarchitecture",
+  "version": "1.0.0",
+  "description": "This project demonstrates the purpose of the clean architecture, alongside with the abilities it provides.",
+  "scripts": {
+    "prettier": "prettier --write '**/src/**/*.((ts?(x))|svelte|vue)'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvivShopen/TodoListCleanArchitecture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvivShopen/TodoListCleanArchitecture/issues"
+  },
+  "homepage": "https://github.com/AvivShopen/TodoListCleanArchitecture#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
