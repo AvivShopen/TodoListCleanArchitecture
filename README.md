@@ -3,7 +3,7 @@ This project demonstrates the purpose of the clean architecture,
 alongside with the abilities it provides.
 
 This project is all about the classic todo-list application 
-But written in different UI libraries that all share the same
+but written in different UI libraries that all share the same
 data and business logic layers 🤩
 
 This project is an experiment for my own curiosity, I wanted to test out the clean architecture
