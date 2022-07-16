@@ -1,12 +1,9 @@
-import { map } from 'rxjs/operators';
-import { TodoList, TodoItem } from './../domain';
 import TodoRepository, {
   CreateTodoDto,
   DeleteTodoDto,
   UpdateTodoDto,
 } from '../repository/TodoRepository';
 import { inject, injectable } from 'inversify';
-import { Observable } from 'rxjs';
 
 @injectable()
 export class TodoInteractor {

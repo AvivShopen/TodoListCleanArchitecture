@@ -9,12 +9,9 @@
   "scripts": {
     "build": "tsc"
   },
-  "_moduleAliases": {
-    "@/*": "./lib"
-  },
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.3",
-    "better-module-alias": "^1.1.0",
+    "axios": "^0.27.2",
     "inversify": "^6.0.1",
     "redux": "^4.2.0",
     "redux-logger": "^3.0.6",
@@ -25,7 +22,6 @@
   "devDependencies": {
     "@types/node": "^18.0.4",
     "@types/redux-logger": "^3.0.9",
-    "tsconfig-paths-webpack-plugin": "^3.5.2",
     "typescript": "^4.7.4"
   }
 }

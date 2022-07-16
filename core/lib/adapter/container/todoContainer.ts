@@ -1,4 +1,4 @@
-import InMemoryTodoRepository from '../../repository/memory/InMemoryTodoRepository';
+import InMemoryTodoRepository from '../../repository/memory';
 import TodoRepository from '../../repository/TodoRepository';
 import { TodoInteractor } from '../../useCase';
 import { Container } from 'inversify';

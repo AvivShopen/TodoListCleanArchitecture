@@ -11,6 +11,8 @@ export const todoSlice = createSlice({
   initialState,
   reducers: {},
   extraReducers: (builder) => {
+    // TODO: Add reject cases for failed actions
+
     builder.addCase(
       createTodo.fulfilled,
       (state: TodoState, action: PayloadAction<TodoItem>) => {
